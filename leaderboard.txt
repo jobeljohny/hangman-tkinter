@@ -1,0 +1,8 @@
+Rick:133.5
+Raj:30.5
+Jose:13.5
+Dev:13.5
+Jobel:10.0
+Jamee:0.0
+Richie:0.0
+Joe:0.0
